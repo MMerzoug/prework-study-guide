@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+BODY { background-color: rgb(252, 250, 251); }
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: rgb(222, 205, 233);
+    color: rgb(104, 170, 197);
+}
+h1,
+h2 {
+    text-align: center;
+    font-family: system-ui;
+    color: rgb(104, 170, 197);
+    
+}
+img {
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+    font-family: system-ui;
+    color: rgb(104, 170, 197);
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: system-ui;
+    color: rgb(104, 170, 197);
+  }
+  .card {
+  width: 80%;
+  margin: 40px auto;
+  border: 5px solid rgb(222, 205, 233);
+  border-radius: 15px;
+  box-shadow: 5px 3px rgb(222, 205, 233);
+}
